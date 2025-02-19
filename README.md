@@ -1,20 +1,13 @@
-## Hello There,
+<h1 align="center">Hello There,
+Welocme to my profile 👋</h1>
+
+# 💫 About Me:
+Based in Dubai,Aspiring Cybersecurity analyst. <br>.I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>Let's build the future, one line of code at a time! 
+
 
 ## Currently working on:
 -Break right now!
 
 ## 🛠️ Skills
-**Programming Languages**:  
-[![](https://skillicons.dev/icons?i=c,js,html,java,python)](https://skillicons.dev)  
-**Frameworks, Libraries, UI**:  
-[![](https://skillicons.dev/icons?i=tailwind,react,next,vite,flask,materialui)](https://skillicons.dev)  
-**Backend & Deployment**:  
-[![](https://skillicons.dev/icons?i=firebase,vercel)](https://skillicons.dev)  
-**Tools**:  
-[![](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)  
 
 
-## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-singh-5a2887200/)   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akshatlovesyou/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhakshat511@gmail.com)
