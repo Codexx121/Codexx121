@@ -13,14 +13,6 @@
 **Tools**:  
 [![](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)  
 
-## 🌱 Learning and Goals
-**Currently learning**  
-[![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-**Next Goals**  
-[![](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
-
-## 📊 GitHub Stats
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatcodesyou&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-singh-5a2887200/)   
