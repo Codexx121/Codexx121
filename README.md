@@ -7,7 +7,6 @@ Let's build the future, one line of code at a time!
 
 
 ## 🚀 Currently Working On:
-- [Repo Name](https://github.com/your-repo-link)
 
 ## Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
